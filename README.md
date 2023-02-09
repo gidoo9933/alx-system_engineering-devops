@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-This is my second repository as a full-stack engineer at Alx
+This repository contains programmes written for the system engineering and devops at Alx. Bash scripts were written during the programme.
